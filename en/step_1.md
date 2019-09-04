@@ -49,7 +49,7 @@ As with all activities, tick this activity off when you have completed it.
 Click on the ‘Click me’ button to do back to the Python 1 Module pathway and begin the projects.
 
 <a href="https://codeclub.org/en/projects-cc">
-<img src="images/Clickme.png">
+<img src="images/Clickme.png"></a>
 
 
 --- /task ---
