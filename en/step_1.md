@@ -28,7 +28,7 @@ Click the image below to play the animation. Remember, when you have finished wa
 Tick off the activity once you have completed it:
 
 <a href="https://scratch.mit.edu/projects/325793079">
-<img src="images/animation.png">
+<img src="images/animation.png"></a>
   
 --- /task ---
 
